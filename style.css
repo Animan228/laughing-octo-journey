@@ -186,3 +186,12 @@ a#twitter div:active{
 h1, h2{
 	font-weight: normal;
 }
+
+i#lime:hover{
+	cursor: pointer;
+}
+
+i#lime:active{
+	font-size: 15px;
+	color: #8C04A8;
+}
