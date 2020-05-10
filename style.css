@@ -53,7 +53,7 @@ div#image{
 	float:right;
 	box-sizing: border-box;
 	min-height: 100%;
-	background-image: url('../images/build.png');
+	background-image: url('build.png');
 	position: relative;
 	bottom: 146px;
 	border-radius: 0px 10px 10px 0px;
